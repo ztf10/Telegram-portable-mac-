@@ -4,6 +4,8 @@
 
 Портативная версия официального Telegram Desktop для Mac. Не требует установки. Все данные (сессия, кэш, настройки) хранятся внутри папки пакета, а не в системе. Обычный Telegram, если он установлен, не затрагивается и не мешает.
 
+Скачать можно поссылке: https://github.com/ztf10/Telegram-portable-mac-/releases/download/1.0.0/Telegram.Portable.Mac.zip
+
 **Один пакет = один аккаунт.**
 
 ## Содержание
@@ -135,6 +137,8 @@ Telegram Portable/
 [🇷🇺 Русский](#telegram-portable-для-macos) | 🇬🇧 English
 
 A portable build of the official Telegram Desktop for Mac. No installation needed. All data (session, cache, settings) is stored inside the package folder, not in the system. A regular Telegram installation is not affected and does not interfere.
+
+Download via link: https://github.com/ztf10/Telegram-portable-mac-/releases/download/1.0.0/Telegram.Portable.Mac.zip
 
 **One package = one account.**
 
